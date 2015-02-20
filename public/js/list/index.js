@@ -1,0 +1,2 @@
+define(['./list-ctrl'], function () {
+});

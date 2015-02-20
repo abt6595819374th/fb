@@ -1,0 +1,11 @@
+.thumbnails {
+    overflow: hidden;
+}
+
+.thumbnail {
+    float: left;
+    width: 200px;
+    height: 200px;
+    background-position: 50% 50%;
+    background-size: cover;
+}
